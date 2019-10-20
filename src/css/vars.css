@@ -1,6 +1,9 @@
 :root {
-  --backgroundColor: #eaeae9;
-  --textColor: #463636;
-  --anotherColor: #bada55;
+  --backgroundColor: #F9D2CB;
+  --textColor: #212121;
+  --anotherColor:#bada55;
+  --mainFont: Roboto;
+  --regularFontSize: 18px;
+  --titleFontSize: 26px;
   --margin: 2rem;
 }
