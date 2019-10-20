@@ -1,0 +1,29 @@
+.price{
+  background-color:white;
+  width: 170px;
+  height: 63px;
+  border-radius:6px;
+}
+.price__button{
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  font-family: var(--mainFont);height: 63px;
+
+}
+.price__button__name{
+  font-size:18px;
+  line-height:21px;
+}
+.price__button__amount{
+  font-size:12px;
+  line-height:14px;
+  color:#9C9C9C;
+
+}
+.price__button__plus{
+  width:38px;
+  background-color: var(--anotherColor);
+  height:38px;
+}
+

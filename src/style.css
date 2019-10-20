@@ -1,5 +1,23 @@
 @import "./css/reset.css";
 @import "./css/vars.css";
 @import "./css/header.css";
+@import "./css/drink.css";
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+.prices{
+  height:168px;
+
+  background-color: var(--backgroundColor)
+}
 
 
